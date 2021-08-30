@@ -10,3 +10,5 @@ Algunas cosas sobre mi:
 - Adicto al asado.
 - Hago entrenamientos de fuerza.
 
+![Yo](1.jpg)
+
